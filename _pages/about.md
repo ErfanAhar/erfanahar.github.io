@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 2nd year Ph.D. student at University of Minnesota in [economics](https://cla.umn.edu/economics)
+I'm a 2nd year Ph.D. student at University of Minnesota in [economics](https://cla.umn.edu/economics).
