@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<font size="6" color="navy">Education</font>
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
+* 2023-present: Ph.D in Economics, <a href="https://cla.umn.edu/economics" target="_blank" rel="noopener noreferrer">University of Minnesota</a>, Minneapolis, MN.
+* M.S. in Economics, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
