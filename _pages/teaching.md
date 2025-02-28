@@ -18,9 +18,9 @@ Macroeconomic Theory 1 (8105):
 Macroeconomic Theory 2 (8106):
 : Assignments: [Problem set 1](https://drive.google.com/file/d/1w7J7xFpHLYhpUNq5ES2-wjFxnUbWm4Ek/view?usp=drive_link), [Problem set 2](https://drive.google.com/file/d/1WflTtwx-x9guxdtNa9UNYezm6Pvg1PZ1/view?usp=drive_link), [Problem set 3](https://drive.google.com/file/d/1X2hPZXWvmb72AJ5JKGnldbRHUX9tleV6/view?usp=drive_link), [Problem set 4](https://drive.google.com/file/d/1hiF7NiBVHxLrUDV75N3dtjR_tK-TBMBt/view?usp=drive_link)
 : [Past 8106 Midterms (2018-2023)](https://drive.google.com/file/d/1TK_WVbp0EiMqzSQPlOz5UmdOM5g3A2iJ/view?usp=sharing)
-: Important Dates:
-  Midterm: Tuesday, November 26th
-  Final: Tuesday, December 10th
+- Important Dates:
+  - Midterm: Tuesday, November 26th
+  - Final: Tuesday, December 10th
 
 Macroeconomic Theory 3 (8107)
 
