@@ -9,6 +9,7 @@ author_profile: true
 - [Correspondences Slides](https://drive.google.com/file/d/1zhnIM8AfXSzKA5Z2nInnn8ocj409cujB/view?usp=drive_link)
 - Useful Resources: 
   - [Lucas Belmudes's site](https://sites.google.com/umn.edu/lbelmudes/lucas-belmudes)
+---
 
 ## Macroeconomic Theory Courses 2024:
 
@@ -37,4 +38,4 @@ Useful Resources:
 : [Dirk Krueger's notes on Macroeconomic Theory](https://drive.google.com/file/d/1UzMWSs3_tTjJkBddKpzR0K77aRsY5t6Q/view?usp=drive_link)
 
 : ["PhD Macro Book" by M. Azzimonti, P. Krussell, A. McKay, and T. Mukoyama](https://phdmacrobook.org/)
-
+---
