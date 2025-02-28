@@ -5,10 +5,11 @@ author_profile: true
 ---
 
 ## Summer 2024 Math Camp:
+
 : [Lecture Notes](https://drive.google.com/file/d/1A_gH0oTXK0oB0KP5WjwByolUvRtiAruA/view?usp=drive_link)
 : [Correspondences Slides](https://drive.google.com/file/d/1zhnIM8AfXSzKA5Z2nInnn8ocj409cujB/view?usp=drive_link)
 : **Useful Resources:** 
-: [Lucas Belmudes's site](https://sites.google.com/umn.edu/lbelmudes/lucas-belmudes)
+: : [Lucas Belmudes's site](https://sites.google.com/umn.edu/lbelmudes/lucas-belmudes)
 
 ---
 
@@ -31,7 +32,7 @@ Macroeconomic Theory 3 (8107): (With: [V.V Chari](https://sites.google.com/umn.e
 Macroeconomic Theory 4 (8108): (With: [Manuel Amador](https://manuelamador.me/))
 : Will be posted
 
-: **Useful Resources:**
+ **Useful Resources:**
 : [Matteo Chequer's site](https://sites.google.com/view/matteobchequer), [Zach Swaziek's site](https://sites.google.com/view/zach-swaziek/home?authuser=1), [Alex Wurdinger's site](https://sites.google.com/view/alexwurdinger/home?authuser=0)
 : [Previous Prelims Archive](https://sites.google.com/umn.edu/econintranet/grads/written-prelims/prelim-archive)
 : [Dirk Krueger's notes on Macroeconomic Theory](https://drive.google.com/file/d/1UzMWSs3_tTjJkBddKpzR0K77aRsY5t6Q/view?usp=drive_link)
