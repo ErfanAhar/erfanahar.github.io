@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 <font size="6" color="navy">Education</font>
-======
+
 * 2023-present: Ph.D in Economics, <a href="https://cla.umn.edu/economics" target="_blank" rel="noopener noreferrer">University of Minnesota</a>, Minneapolis, MN.
-* M.S. in Economics, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2022: M.S. in Economics, <a href="https://teias.institute" target="_blank" rel="noopener noreferrer">Tehran Institute for Advanced Studies (TEIAS)</a>, Tehran, Iran.
+* 2019: B.S. in Industrial Engineering, <a href="https://en.sharif.edu" target="_blank" rel="noopener noreferrer">Sharif University of Technology</a>, Tehran, Iran.
 
 Work experience
 ======
