@@ -11,4 +11,4 @@ author_profile: true
 
 
 - Harald Uhlig Award in Macroeconomics:
-: <font size="3">for the best score on the Spring 2024 Macroeconomics prelim</font>
+: <font size="3">For the best score on the Spring 2024 Macroeconomics prelim</font>
