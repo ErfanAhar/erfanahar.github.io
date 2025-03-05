@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](https://github.com/ErfanAhar/erfanahar.github.io/edit/master/_data/CV__1_ (1).pdf).<br><small>Last updated 2024-12-08.
+You can find my CV [here](https://github.com/ErfanAhar/erfanahar.github.io/edit/master/_data/CV__1.pdf).<br><small>Last updated 2024-12-08.
